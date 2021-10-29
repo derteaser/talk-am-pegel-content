@@ -34,7 +34,7 @@ Eventbrite-url: https://www.eventbrite.de/e/neue-herausforderungen-fur-den-katas
 
 ----
 
-Text: [{"content":{"level":"h2","text":"<strong>Staatssekret\u00e4r Krings Gast beim \u201eTalk am Pegel\u201c<\/strong>"},"id":"b034595a-9669-48c8-b896-154b02ee74f6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Gemeinsam mit dem Parlamentarischen Staatssekret\u00e4r G\u00fcnter Krings, dem Malteser-Stadtbeauftragten Kurt Koenemann und Andreas Schmitz vom Warnsysteme-Hersteller Coptr haben rund 70 interessierte G\u00e4ste \u00fcber neue Herausforderungen f\u00fcr den Katastrophenschutz diskutiert. Dr. J\u00f6rg Geerlings freut sich \u00fcber viele neue Gedanken und Impulse \u2013 auch f\u00fcr die Stadt Neuss.<\/p>"},"id":"585b0c5e-9eea-4872-87b2-3bc9d3f801aa","isHidden":false,"type":"text"}]
+Text: [{"content":{"level":"h2","text":"<strong>Staatssekret\u00e4r Krings Gast beim \u201eTalk am Pegel\u201c<\/strong>"},"id":"b034595a-9669-48c8-b896-154b02ee74f6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Gemeinsam mit dem Parlamentarischen Staatssekret\u00e4r G\u00fcnter Krings, dem Malteser-Stadtbeauftragten Kurt Koenemann und Andreas Schmitz vom Warnsysteme-Hersteller Coptr haben rund 70 interessierte G\u00e4ste \u00fcber neue Herausforderungen f\u00fcr den Katastrophenschutz diskutiert. Dr. J\u00f6rg Geerlings freut sich \u00fcber viele neue Gedanken und Impulse \u2013 auch f\u00fcr die Stadt Neuss.<\/p>"},"id":"585b0c5e-9eea-4872-87b2-3bc9d3f801aa","isHidden":false,"type":"text"},{"content":{"images":[]},"id":"fe5cea75-a256-425a-81de-f286eb4563ee","isHidden":false,"type":"gallery"}]
 
 ----
 
