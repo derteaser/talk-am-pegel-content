@@ -6,7 +6,7 @@ Sub-heading: Geschäftsführer Handelsverband NRW
 
 ----
 
-Website: 
+Website: https://rheinland.hv-nrw.de/der-verband/geschaftsstellenrheinland/geschaeftsstelle-moenchengladbach-rhein-kreis-neuss/
 
 ----
 
@@ -18,4 +18,6 @@ Xing: https://www.xing.com/profile/Jan_Kaiser16/cv
 
 ----
 
-Main-image: 
+Main-image:
+
+- jan-kaiser.jpg
