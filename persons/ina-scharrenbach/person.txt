@@ -20,4 +20,4 @@ Xing:
 
 Main-image:
 
-- ina_scharrenbach_-2017.jpg
+- ina_scharrenbach.jpg
