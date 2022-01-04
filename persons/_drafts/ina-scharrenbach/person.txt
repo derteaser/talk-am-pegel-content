@@ -2,4 +2,22 @@ Title: Ina Scharrenbach
 
 ----
 
-Main-image: 
+Sub-heading: Ministerin für Heimat, Kommunales, Bau und Gleichstellung
+
+----
+
+Website: https://www.mhkbg.nrw/ministerium/ina-scharrenbach
+
+----
+
+Linkedin: 
+
+----
+
+Xing: 
+
+----
+
+Main-image:
+
+- ina_scharrenbach_-2017.jpg
