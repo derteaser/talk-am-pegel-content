@@ -43,4 +43,7 @@ Textline: Talk am Pegel #6
 Attendants:
 
 - persons/ina-scharrenbach
+- persons/jan-kaiser
+- persons/michael-bott
+- persons/natalie-goldkamp
 - persons/joerg-geerlings
