@@ -26,7 +26,7 @@ Eventbrite-url: https://www.eventbrite.de/e/innenstadt-der-zukunft-tickets-23849
 
 ----
 
-Text: [{"content":{"level":"h2","text":"<strong>Vortrag und Diskussion mit Ministerin Ina Scharrenbach<\/strong>"},"id":"6ecf4e05-08d6-4b51-992c-1d3d84d5a5f9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Ministerin f\u00fcr Heimat, Kommunales, Bau und Gleichstellung, Ina Scharrenbach, diskutiert mit Jan Kaiser vom Handelsverband NRW, dem Gastronomen Michael Bott, der Stadtverordneten Natalie Goldkamp und dem Neusser Landtagsabgeordneten J\u00f6rg Geerlings \u00fcber die \"Innenstadt der Zukunft\".<\/p>"},"id":"45775ed4-9b26-49df-b6ec-43cef9636fca","isHidden":false,"type":"text"}]
+Text: [{"content":{"level":"h2","text":"<strong>Vortrag und Diskussion mit <br>Ministerin Ina Scharrenbach<\/strong>"},"id":"6ecf4e05-08d6-4b51-992c-1d3d84d5a5f9","isHidden":false,"type":"heading"},{"content":{"text":"<p>Die Ministerin f\u00fcr Heimat, Kommunales, Bau und Gleichstellung, Ina Scharrenbach, diskutiert mit Jan Kaiser vom Handelsverband NRW, dem Gastronomen Michael Bott, der Stadtverordneten Natalie Goldkamp und dem Neusser Landtagsabgeordneten J\u00f6rg Geerlings \u00fcber die \"Innenstadt der Zukunft\".<\/p>"},"id":"45775ed4-9b26-49df-b6ec-43cef9636fca","isHidden":false,"type":"text"}]
 
 ----
 
