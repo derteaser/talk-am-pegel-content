@@ -18,4 +18,6 @@ Xing:
 
 ----
 
-Main-image: 
+Main-image:
+
+- michael_bott.jpg
