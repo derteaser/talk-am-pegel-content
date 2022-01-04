@@ -2,11 +2,27 @@ Title: Innenstadt der Zukunft
 
 ----
 
-Date: 
+Date: 2022-01-18 18:30:00
 
 ----
 
-Is-virtual: false
+Is-virtual: true
+
+----
+
+Location-name: Zoom
+
+----
+
+Location-geo: 
+
+----
+
+Location-url: 
+
+----
+
+Eventbrite-url: https://www.eventbrite.de/e/innenstadt-der-zukunft-tickets-238499998917
 
 ----
 
@@ -14,7 +30,13 @@ Text:
 
 ----
 
-Main-image: 
+Main-image:
+
+- shopping-venture-g3646e2283_1920.jpg
+
+----
+
+Textline: Talk am Pegel #6
 
 ----
 
