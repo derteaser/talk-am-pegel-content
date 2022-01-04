@@ -40,4 +40,6 @@ Textline: Talk am Pegel #6
 
 ----
 
-Attendants: 
+Attendants:
+
+- persons/joerg-geerlings
