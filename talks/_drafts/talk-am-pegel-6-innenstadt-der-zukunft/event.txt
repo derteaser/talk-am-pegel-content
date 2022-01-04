@@ -42,4 +42,5 @@ Textline: Talk am Pegel #6
 
 Attendants:
 
+- persons/ina-scharrenbach
 - persons/joerg-geerlings
