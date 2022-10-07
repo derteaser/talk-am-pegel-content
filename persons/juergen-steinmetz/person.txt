@@ -18,6 +18,8 @@ Xing: https://www.xing.com/profile/Juergen_Steinmetz2
 
 ----
 
-Main-image:
+Main-image: - juergen-steinmetz-hauptgeschaeftsfuehrer2.jpg
 
-- juergen-steinmetz-hauptgeschaeftsfuehrer2.jpg
+----
+
+Uuid: kDHI69dZlFrlVhE8

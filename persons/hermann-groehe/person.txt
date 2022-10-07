@@ -18,6 +18,8 @@ Xing:
 
 ----
 
-Main-image:
+Main-image: - groehe_hermann_sv22046_20x30.jpg
 
-- groehe_hermann_sv22046_20x30.jpg
+----
+
+Uuid: grPTF355DRIokl0L

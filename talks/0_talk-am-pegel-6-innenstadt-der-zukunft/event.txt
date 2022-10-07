@@ -30,9 +30,7 @@ Text: [{"content":{"level":"h2","text":"Neusser Innenstadt braucht Alleinstellun
 
 ----
 
-Main-image:
-
-- shopping-venture-g3646e2283_1920.jpg
+Main-image: - shopping-venture-g3646e2283_1920.jpg
 
 ----
 
@@ -47,3 +45,7 @@ Attendants:
 - persons/michael-bott
 - persons/natalie-goldkamp
 - persons/joerg-geerlings
+
+----
+
+Uuid: O4r0xGbsCLqckLvV

@@ -18,6 +18,8 @@ Xing:
 
 ----
 
-Main-image:
+Main-image: - karl-josef_laumann.jpg
 
-- karl-josef_laumann.jpg
+----
+
+Uuid: 1GpwseKVM0giuzNi
