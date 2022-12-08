@@ -10,7 +10,7 @@ Website: https://www.ihk-krefeld.de/de/anwendungen/personen/hgf/juergen-steinmet
 
 ----
 
-Linkedin: 
+Linkedin: https://www.linkedin.com/in/jürgen-steinmetz-9326b1199
 
 ----
 
@@ -18,7 +18,7 @@ Xing: https://www.xing.com/profile/Juergen_Steinmetz2
 
 ----
 
-Main-image: - juergen-steinmetz-hauptgeschaeftsfuehrer2.jpg
+Main-image: - file://Gdn5hIAVTLkNXV4P
 
 ----
 
