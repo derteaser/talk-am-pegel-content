@@ -36,7 +36,7 @@ Eventbrite-url: https://www.eventbrite.ca/e/wege-aus-der-energiekrise-tickets-48
 
 ----
 
-Text: [{"content":{"text":"<p>Die Vorstandsvorsitzende der Westenergie AG, Katherina Reiche, diskutiert mit J\u00fcrgen Steinmetz (IHK Mittlerer Niederrhein), Ines Stefen (Rechtsanw\u00e4ltin mit Schwerpunkt Energierecht), Serena Becker (Gesch\u00e4ftsf\u00fchrerin des Sozialdienstes katholischer M\u00e4nner) und dem Neusser Landtagsabgeordneten Dr. J\u00f6rg Geerlings \u00fcber Wege aus der Energiekrise.<\/p>"},"id":"6d1d9045-3a95-4b68-98ef-a9fa4b7bd31f","isHidden":false,"type":"text"}]
+Text: [{"content":{"text":"<p>Die Vorstandsvorsitzende der Westenergie AG, Katherina Reiche, diskutiert mit J\u00fcrgen Steinmetz (IHK Mittlerer Niederrhein), In\u00e8s Stefen (Rechtsanw\u00e4ltin mit Schwerpunkt Energierecht), Serena Becker (Gesch\u00e4ftsf\u00fchrerin des Sozialdienstes katholischer M\u00e4nner) und dem Neusser Landtagsabgeordneten Dr. J\u00f6rg Geerlings \u00fcber Wege aus der Energiekrise.<\/p>"},"id":"6d1d9045-3a95-4b68-98ef-a9fa4b7bd31f","isHidden":false,"type":"text"}]
 
 ----
 
