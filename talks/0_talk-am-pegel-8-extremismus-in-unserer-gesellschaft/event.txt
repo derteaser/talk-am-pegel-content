@@ -1,0 +1,56 @@
+Title: Extremismus in unserer Gesellschaft
+
+----
+
+Date: 2024-04-03 18:00:00
+
+----
+
+Is-virtual: false
+
+----
+
+Location-name: Pegelbar Neuss
+
+----
+
+Location-geo:
+
+lat: 51.1996335
+lon: 6.6958312
+number: "5"
+city: Neuss
+region: Nordrhein-Westfalen
+country: Deutschland
+countryCode: de
+postcode: "41460"
+address: Am Zollhafen
+osm: 331186561
+
+----
+
+Location-url: 
+
+----
+
+Eventbrite-url: https://www.eventbrite.de/e/extremismus-in-unserer-gesellschaft-tickets-859520377587
+
+----
+
+Text: [{"content":{"location":"kirby","image":["file://wN7F4PlsHx6LaW0v"],"src":"","alt":"Porträt von Herbert Reul","caption":"","link":"","ratio":"","crop":"false"},"id":"5e731586-ba09-4a33-87c9-860d28523898","isHidden":false,"type":"image"},{"content":{"text":"<p>Der Innenminister des Landes NRW, Herbert Reul (CDU), diskutiert mit Alexandra Klein (Vorsitzende der Freundschaftsgesellschaft \"Chaverut\"), Achim Fischer (Landessprecher der Schulleitervereinigung der Gesamtschulen in NRW), Umut Ali Öksüz (Interkulturelle Projekthelden) und dem Neusser Landtagsabgeordneten Dr. Jörg Geerlings über Extremismus in unserer Gesellschaft.</p>"},"id":"346d7c5c-871c-4eac-9956-011b1a20f471","isHidden":false,"type":"text"}]
+
+----
+
+Main-image: - file://LcoBXCKbfTXsx8W5
+
+----
+
+Textline: Talk am Pegel #8
+
+----
+
+Attendants: 
+
+----
+
+Uuid: djSGCV1GrvnzyL9K
