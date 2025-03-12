@@ -1,0 +1,61 @@
+Title: Jetzt durchstarten - Deutschland im Wettbewerb
+
+----
+
+Date: 2025-04-07 19:00:00
+
+----
+
+Is-virtual: false
+
+----
+
+Location-name: Pegelbar
+
+----
+
+Location-geo:
+
+lat: 51.1996335
+lon: 6.6958312
+number: "5"
+city: Neuss
+region: Nordrhein-Westfalen
+country: Deutschland
+countryCode: de
+postcode: "41460"
+address: Am Zollhafen
+osm: 331186561
+
+----
+
+Location-url: 
+
+----
+
+Eventbrite-url: https://www.eventbrite.de/e/jetzt-durchstarten-deutschland-im-wettbewerb-tickets-1277646578309
+
+----
+
+Text: [{"content":{"level":"h2","text":"<strong>Unternehmerpräsident Kirchhoff ist Gast beim „Talk am Pegel“</strong>"},"id":"f23e52e2-f097-40ee-bfe0-f4b0b07f7568","isHidden":false,"type":"heading"},{"content":{"text":"<p>Der Präsident von Unternehmer NRW, Arndt G. Kirchhoff, ist der nächste Gast der Veranstaltungsreihe „Talk am Pegel“, die der Neusser Landtagsabgeordnete Dr. Jörg Geerlings ins Leben gerufen hat.<br><br>Kirchhoff ist Vorsitzender des Aufsichtsrats der KIRCHHOFF Gruppe in Iserlohn und engagiert sich daneben in verschiedenen Verbänden. Unter anderem ist er Präsident der Landesvereinigung der Unternehmensverbände Nordrhein-Westfalen e. V., Präsident des Verbandes der Metall- und Elektro-Industrie Nordrhein-Westfalen, Vizepräsident der Bundesvereinigung der Deutschen Arbeitgeberverbände sowie des Verbandes der Automobilindustrie und Mitglied im Präsidium des Bundesverbandes der Deutschen Industrie.<br><br>Am Montag, dem 7. April 2025, spricht Kirchhoff um 19 Uhr zum Thema „Jetzt durchstarten – Deutschland im Wettbewerb“. Es schließt sich eine Diskussion mit Frank Gensler (Stadtkämmerer) und Sabine Hustedt (Geschäftsführerin des Jobcenters Rhein-Kreis Neuss) und dem Neusser Landtagsabgeordneten Jörg Geerlings an.<br><br>Mit der Reihe „Talk am Pegel“ hat Geerlings ein neues Veranstaltungsformat geschaffen. „So wie im Hafen Güter aus aller Welt verladen werden, so möchte ich mit dieser Veranstaltungsreihe im Hafen neue Ideen und Impulse für Neuss heranholen“, sagt der Abgeordnete. „Dadurch soll das gesellschaftliche Leben in unserer Stadt bereichert werden.“</p>"},"id":"b5d9b073-76cf-485f-92ec-57ac6d37ab0a","isHidden":false,"type":"text"}]
+
+----
+
+Main-image: - file://pUYGeX7OY4cYOMmI
+
+----
+
+Textline: Talk am Pegel #8
+
+----
+
+Attendants:
+
+- page://ItF7LR0HMQ0b4LwG
+- page://3NwLvh3MRL6SN6Os
+- page://AFQ9o2XDZpyQdaEh
+- page://ogFlkVQTkspVgPSu
+
+----
+
+Uuid: dBChmgbXqRp81KDh
