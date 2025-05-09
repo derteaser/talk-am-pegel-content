@@ -6,7 +6,7 @@ Sub-heading: Schulleiter der Janusz-Korczak-Gesamtschule
 
 ----
 
-Website: 
+Website: https://jkg-neuss.de/schulleitung/
 
 ----
 
@@ -18,7 +18,7 @@ Xing:
 
 ----
 
-Main-image: 
+Main-image: - file://prynmlag6MDLOzws
 
 ----
 
