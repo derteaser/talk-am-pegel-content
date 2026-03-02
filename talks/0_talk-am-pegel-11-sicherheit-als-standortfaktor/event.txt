@@ -1,0 +1,60 @@
+Title: Sicherheit als Standortfaktor
+
+----
+
+Date: 2026-03-26 19:00:00
+
+----
+
+Is-virtual: false
+
+----
+
+Location-name: Pegelbar
+
+----
+
+Location-geo:
+
+lat: 51.1996335
+lon: 6.6958312
+number: "5"
+city: Neuss
+region: Nordrhein-Westfalen
+country: Deutschland
+countryCode: de
+postcode: "41460"
+address: Am Zollhafen
+osm: 331186561
+
+----
+
+Location-url: 
+
+----
+
+Eventbrite-url: https://www.eventbrite.de/e/sicherheit-als-standortfaktor-tickets-1984132870828
+
+----
+
+Text: [{"content":{"level":"h2","text":"Wie wehrhaft muss Deutschland wirtschaftlich und diplomatisch werden?"},"id":"cb10d35a-e063-41a4-8785-66f3cc14caf2","isHidden":false,"type":"heading"},{"content":{"text":"<p>Sicherheitspolitik wird zunehmend zum strategischen Kern staatlicher und wirtschaftlicher Handlungsfähigkeit. Welche Rolle spielt eine leistungsfähige Verteidigungsindustrie für Deutschlands Souveränität, und wie lassen sich Zielkonflikte zwischen Exportpolitik, Bündnistreue und geopolitischer Verantwortung lösen?</p><p>Im Spannungsfeld zwischen industrieller Realpolitik und multilateraler Ordnungslogik diskutiert Jörg Geerlings mit Armin Papperger und Christoph Heusgen, wie viel wirtschaftliche und diplomatische Wehrhaftigkeit Deutschland braucht.</p>"},"id":"7357505c-4a89-4778-a875-ed8f4a6055b1","isHidden":false,"type":"text"}]
+
+----
+
+Main-image: - file://PdDptuEy6hES8l7e
+
+----
+
+Textline: Talk am Pegel #11
+
+----
+
+Attendants:
+
+- page://2XlNBPQKGBUMEuFO
+- page://Qa2vAOnXZ8sLAlE5
+- page://ogFlkVQTkspVgPSu
+
+----
+
+Uuid: vWUZKrZoEr2lI653
